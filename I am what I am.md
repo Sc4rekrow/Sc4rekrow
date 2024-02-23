@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sc4rekrow
+- 👋 Hi, I’m @Sc4rekrow.
 - 👀 I’m interested in cloud technology and AI.
 - 🌱 I’m currently learning Amazon Web Services.
 - 💞️ I’m looking to collaborate on AWS, Cloud Services and AI.
-- 📫 How to reach me ...
-- 😄 Pronouns: human
-- ⚡ Fun fact: The matrix is real
+- 📫 How to reach me: Trow the hammer.
+- 😄 Pronouns: Human.
+- ⚡ Fun fact: The matrix is real.
 
 <!---
 Sc4rekrow/Sc4rekrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
