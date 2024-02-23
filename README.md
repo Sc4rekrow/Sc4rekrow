@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sc4rekrow
-- 👀 I’m interested in cloud technolagy and AI.
+- 👀 I’m interested in cloud technology and AI.
 - 🌱 I’m currently learning Amazon Web Services.
 - 💞️ I’m looking to collaborate on AWS, Cloud Services and AI.
 - 📫 How to reach me ...
