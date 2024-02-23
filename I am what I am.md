@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AWS, Cloud Services and AI.
 - 📫 How to reach me ...
 - 😄 Pronouns: human
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The matrix is real
 
 <!---
 Sc4rekrow/Sc4rekrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
